@@ -1,0 +1,12 @@
+.offers-container {
+    text-align: center; 
+  }
+  
+  .card-row {
+    display: flex;
+    justify-content: space-between; 
+    gap: 2px; 
+  }
+  
+  
+  

@@ -1,0 +1,24 @@
+.destination-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .drop {
+    margin-bottom: 20px; 
+  }
+  
+  .destination-image {
+    position: relative;
+  }
+  
+  .content-wrapper {
+    position: absolute;
+    bottom: 10px; 
+    left: 130%;
+    transform: translateX(-50%);
+    width: 80%; 
+  }
+  
+
+  
